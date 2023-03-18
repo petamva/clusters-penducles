@@ -1,4 +1,8 @@
-# Grape cluster and penducle detection and segmentation with Detectron2
+# Grape cluster and penducle detection and segmentation with Detectron2 and Yolact++
+
+
+https://user-images.githubusercontent.com/49126161/226130164-c8fdf0bd-e50a-4be0-af92-2452349ebd9c.mp4
+
 
 ![pred1](https://user-images.githubusercontent.com/49126161/226128810-ed9db0f1-d634-4afb-bcce-26e20c18f9c0.png)
 ![pred2](https://user-images.githubusercontent.com/49126161/226128825-b65f3dbe-5cd0-4483-9688-ae378f153565.png)
