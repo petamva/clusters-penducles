@@ -6,5 +6,5 @@
 ![penducle_6](https://user-images.githubusercontent.com/49126161/226128953-bafb67c2-1b2f-4121-8384-7a7e34f54a70.png)
 
 This is a service that detects and semantically segments images of grape clusters.
-We collect photos of grape clusters from the vineyeards, annotate them manually and train 
+We collect photos of grape clusters from the vineyards, annotate them manually and train 
 a cluster and a penducle model. The user can upload an image and the service returns its predictions.
