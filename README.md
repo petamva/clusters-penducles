@@ -12,3 +12,6 @@ a cluster and a penducle model. The user can upload an image and the service ret
 ![pred2](https://user-images.githubusercontent.com/49126161/226128825-b65f3dbe-5cd0-4483-9688-ae378f153565.png)
 ![penducle_3](https://user-images.githubusercontent.com/49126161/226128882-a47e04f8-3452-4a4c-80bd-3a75e41dca33.png)
 ![penducle_6](https://user-images.githubusercontent.com/49126161/226128953-bafb67c2-1b2f-4121-8384-7a7e34f54a70.png)
+
+<sub>Detectron2, Yuxin Wu, Alexander Kirillov, Francisco Massa, Wan-Yen Lo and Ross Girshick, 2019 Facebook Research</sub><br>
+<sub>YOLACT++: Better Real-time Instance Segmentation, Daniel Bolya, Chong Zhou, Fanyi Xiao and Yong Jae Lee, IEEE Transactions on Pattern Analysis and Machine Intelligence, 2020</sub>
